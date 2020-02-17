@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Count</string>
+    <string name="enter_your_private_key">Enter Your Private Key</string>
+    <string name="start">Start</string>
+    <string name="hex_prefix">0x</string>
+    <string name="invalid_private_key">Invalid Private Key</string>
+    <string name="invalid_private_key_provided">Invalid private has been provided. Please make sure the private key you entered is correct.</string>
+    <string name="balance">Balance</string>
+    <string name="address">Address</string>
+    <string name="add">ADD</string>
+    <string name="subtract">SUBTRACT</string>
+    <string name="start_with_klay">start with KLAY</string>
+    <string name="start_without_klay">start without KLAY</string>
+    <string name="payer_url">Payer URL</string>
+    <string name="use_payer">Use Payer</string>
+    <string name="num_before_init">###</string>
+</resources>
