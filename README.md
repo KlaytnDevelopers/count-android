@@ -1,6 +1,6 @@
 # Count BApp for Android
 
-Count BApp for Android (Count) is an Android implementation (Java) demonstrating the simple use of [caver-java](https://github.com/klaytn/caver-java). The primary purpose of Count is to highlight **Klaytn Fee Delegation** mechanism with an arbitrary fee delegator.
+Count BApp for Android (Count) is an Android implementation (Java) demonstrating the simple use of [caver-java](https://github.com/klaytn/caver-java). The primary purpose of Count is to highlight **Klaytn Fee Delegation** mechanism with an arbitrary fee delegator. Check out the article on this app from [Klaytn Developers Forum](https://forum.klaytn.com/t/complete-android-bapp-example-using-fee-delegation/63).
 
 ![](imgs/screenshot_main.png)
 
